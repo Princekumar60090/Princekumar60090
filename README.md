@@ -45,10 +45,29 @@
 ![](https://streak-stats.demolab.com/?user=Princekumar60090&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Princekumar60090&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Princekumar60090&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+## 📊 Coding Profiles
+- 🔗 LeetCode: *https://leetcode.com/u/Prince_kumar9060/*  
+- 🔗 CodeChef: *https://www.codechef.com/users/mob_gaze_82*  
+- 🔗 GeeksforGeeks: *https://www.geeksforgeeks.org/profile/princekumh5pq*  
+
+---
+
+## 📌 Featured Projects
+### 🚀 CampusArena
+- Full-stack platform for **events & coding contests**
+- JWT authentication + role-based access
+- Docker-based code execution engine
+- Deployed on AWS EC2  
+
+### 🛒 E-Commerce Microservices (Ongoing)
+- Built using **Spring Boot + Eureka + Kafka**
+- Focus on scalability & loose coupling  
+
 [![](https://komarev.com/ghpvc/?username=Princekumar60090&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
