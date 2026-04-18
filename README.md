@@ -58,11 +58,13 @@
 ---
 
 ## 📌 Featured Projects
-### 🚀 CampusArena
+### 🚀 CampusArena ([View Project](https://github.com/Singh-Ujjawal/CampusArena))
 - Full-stack platform for **events & coding contests**
-- JWT authentication + role-based access
-- Docker-based code execution engine
-- Deployed on AWS EC2  
+- Implemented **JWT authentication & role-based access control**
+- Contributed to **backend APIs and contest module (submissions + leaderboard)**
+- Integrated **Docker-based code execution engine**
+- Deployed on **AWS EC2**
+- 👨‍💻 Developed as part of a **team project**
 
 ### 🛒 E-Commerce Microservices (Ongoing)
 - Built using **Spring Boot + Eureka + Kafka**
